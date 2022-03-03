@@ -1,1 +1,3 @@
-1jj4j
+{"Message":"LÀM SAO ĐỂ KẾT NỐI:\n B1: Chọn Máy Chủ Mong Muốn Của Bạn\n  B2: Chọn Kết Nối Nhà Mạng Của Bạn\n B3: Bấm Vào Nút Kết Nối VPN Để Sử Dụng\n Lưu Ý: Nếu Máy Chủ Bạn chọn là SSH/WS Thì Chọn Kiểu Kết Nối Cũng Phải SSH/WS Và Ngược Lại.\n Nếu Kết Nối Bằng SSL/TLS Không Được Bạn Hãy Thử Bật Tắt Chế Độ Máy Bay Và Thử Lại ..\n
+Server Có Thể Bị Giảm Chất Lượng Vì Nhiều Người Sử Dụng.\n Trong Trường Hợp, Kết Nối Được Mà Không Có Mạng Hãy Đổi Máy Chủ Khác Và Báo Lỗi Đó Cho Admin.\n HAPPY NEW YEAR 2022 - Chúc Anh Em Năm Mới Vui Vẻ Tràn Đầy Hạnh Phúc Cùng GĐ Và Người Thân\n Cảm ơn bạn đã sử dụng TIEN VPN PRO © Copyright TIEN VPN PRO® All Reserved.
+"}
